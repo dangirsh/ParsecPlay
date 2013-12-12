@@ -1,0 +1,33 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+Subsystem: ABC
+{
+    Member Name: John Doe
+    Member Net Id: jd1
+    Year: F
+    Credits: 1
+    Lead Evals: [
+        3.0
+        4.0
+    ]
+    Member Evals: [
+        3.0
+        4.0
+        3.5
+    ]
+}
+{
+    Member Name: Mary Smith
+    Member Net Id: ms1
+    Year: Sr
+    Credits: 3
+    Lead Evals: [
+        3.5
+    ]
+    Member Evals: [
+        4.0
+        3.5
+    ]
+}
